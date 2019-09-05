@@ -6,8 +6,8 @@
 	"language":"zh-hans",	
 	"links":{
 		"sidebar":{
-			"我的GitHub":"https://github.com/WanKay",
-			"github.io":"https://wankay.github.io"
+			"github.io":"https://wankay.github.io",
+			"My GitHub":"https://github.com/WanKay"
 		}
 	},			
 	"plugins":[
