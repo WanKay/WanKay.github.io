@@ -1,0 +1,18 @@
+{
+
+	"title":"wankay.github.io",
+	"author":"wankay",
+	"description":"wankay.github.io",
+	"language":"zh-hans",	
+	"links":{
+		"sidebar":{
+			"我的GitHub":"https://github.com/WanKay",
+			"github.io":"https://wankay.github.io"
+		}
+	},			
+	"plugins":[
+		"-sharing",
+		"expandable-chapters"
+	]
+
+}
